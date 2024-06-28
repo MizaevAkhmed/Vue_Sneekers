@@ -1,3 +1,8 @@
+/* main.css или style.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-color: rgb(247, 254, 231);
+}
